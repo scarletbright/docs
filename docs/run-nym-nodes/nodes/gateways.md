@@ -206,7 +206,7 @@ nyxd tx wasm execute n14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9sjyvg3
 ### Running your gateway (standard mode)
 
 :::caution
-If you are following these instructions to set up a gateway as part of a Service Grant, **ignore these instructions and jump to the step [below](gateways#running-your-gateway-stats-mode)**
+If you are following these instructions to set up a gateway as part of a Service Grant, **ignore these instructions and jump to the step [below](#running-your-gateway-stats-mode)**
 :::
 
 The `run` command starts the gateway:
